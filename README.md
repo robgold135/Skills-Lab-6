@@ -1,2 +1,2 @@
 # Skills-Lab-6
-Robby Gold and Zhiyuan Hu
+Robby Gold, Zhiyuan Hu, and Lining Liu
