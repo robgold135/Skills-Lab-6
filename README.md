@@ -1,4 +1,5 @@
 Skill-lab-6
+
 Zhiyuan Hu, Robby Gold, and Lining Liu
 
 Our program is a program that asks and labels people's name and their ages. 
